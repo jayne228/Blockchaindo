@@ -20,6 +20,7 @@ We plan to build and deploy an Ethereum based Blockchain for online voting using
 ## What is next?
 1) In case of online voting, there is a chance that the voter can easily be coerced to cast his vote for a particular candidate. We can solve this issue by providing the voter an option to recast his vote. 
 2) Prepare our proposed online voting solution for the post quantum era by implementing suitable hard hashing and encryption algorithms.
+3) Polling booths equipped with computers(loaded with proposed application) can be setup in remote rural areas so people who don't have smartphones and those who require technical assistance can also exert their right to vote. 
 
 
 
